@@ -14,6 +14,7 @@ Welcome to my personal portfolio! This project showcases my work, skills, and pr
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Credits](#credits)
 
 ## Introduction
 
@@ -139,6 +140,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to reach out to me via [hassannazir955@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/hassannazirrr).
 
+##Credits
+
+Huge Thank you to Judy from Webdecoded, help me a lot, and I learned many things from her during this whole project. once again thank you Judy! <3
 ---
 
 Thank you for checking out my portfolio! I hope you find it informative and engaging.
